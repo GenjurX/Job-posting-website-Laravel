@@ -1,4 +1,4 @@
-> composer install
+> composer update
 > cp .env.example .env
 > Set up .env file
 > php artisan key:generate
