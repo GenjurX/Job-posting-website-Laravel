@@ -1,4 +1,5 @@
 <h1>Laravel Project with Tailwind CSS</h1>
+#The user can login or create and account if not already signed up, and has the possibility to post jobs and edit them.
 <ul>
     <li>Clone the Repo: <br> </li>
     <li> > composer install</li>
